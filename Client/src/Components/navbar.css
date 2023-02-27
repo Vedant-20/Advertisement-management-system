@@ -1,0 +1,31 @@
+.mynavbar{
+    padding: 20px ;
+    height: 15vh;
+    border: solid 5px;
+    background-color: blue;
+    border-radius: 20px;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    opacity: 90%;
+    
+    
+    
+}
+.mynavbar:hover{
+    background-color: brown;
+}
+body{
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    border: solid blueviolet;
+    background-position: top;
+    background-color: black;
+    
+    
+}
